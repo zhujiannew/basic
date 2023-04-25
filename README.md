@@ -17,3 +17,6 @@ PS C:\WINDOWS\system32> Start-Service ssh-agent
 
 add the private key
 ssh-add id_rsa
+
+Writing Plan:
+1. shell ideas
